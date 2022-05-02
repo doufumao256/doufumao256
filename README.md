@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @doufumao256
 - 👀 I’m interested in c#,AI,
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning  MachineLearning,DeepLeaning,NLP,openCV
+- 💞️ I’m looking to collaborate on Game developer,AI enthusiasts
+- 📫 How to reach me 1210911039@qq.com
 
 <!---
 doufumao256/doufumao256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

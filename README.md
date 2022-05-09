@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @doufumao256
-- 👀 I’m interested in c#,AI,
+- 👀 I’m interested in masturbate
 - 🌱 I’m currently learning  MachineLearning,DeepLeaning,NLP,openCV
 - 💞️ I’m looking to collaborate on Game developer,AI enthusiasts
 - 📫 How to reach me 1210911039@qq.com
